@@ -115,13 +115,64 @@ Qué es: Yukie Nail New York y Hearts New York son peluquerías y peluquerías p
 1. La tipografía está muy chica
 2. El esquema de las opciones no calza estéticamente con la idea de la página.
 
-##¿Qué existe que puede inspirar la propuesta?
+## ¿Qué existe que puede inspirar la propuesta?
 ### Referente 1
 ![Image alt text](/path/to/R1.jpg)
-Qué es: 
-[link](https://www.holotaco.com/)
+Qué es: Kyle Jenner para la revista VOGUE
 
 #### Aspectos positivos:
-1. 
+1. Las vibes que transmite de alguien seria y elegante
+2. Esta idea de fotos de revista
 #### Aspectos negativos:
-1. 
+1. Tienen que calzar todas con las tonalidades que elegí
+
+### Referente 2
+![Image alt text](/path/to/R2.jpg)
+Qué es: Paleta de colores
+
+#### Aspectos positivos:
+1. Quiero estos tonos para la pagina web
+2. Los colores tierra son los tonos en tendencia
+#### Aspectos negativos:
+1. Tal vez se vea un poco apagado
+
+### Referente 3
+![Image alt text](/path/to/R3.jpg)
+Qué es: Estanpado en tendencia
+
+#### Aspectos positivos:
+1. Me gusta esta idea de ondas, que se vea bien alocada la estetica
+#### Aspectos negativos:
+1. Podria marear a la persona si lo sobre uso
+
+### Referente 4
+![Image alt text](/path/to/R4.jpg)
+Qué es: Foto tipo influencer
+
+#### Aspectos positivos:
+1. Me llama la atención poner estilos sin mostrar el rostro
+2. Darle una estetica tipo fotos tumblr
+#### Aspectos negativos:
+1. La gente se podra confundir con que es una pagina de moda
+
+### Referente 5
+![Image alt text](/path/to/R5.jpg)
+Qué es: Estilo collage
+
+#### Aspectos positivos:
+1. Segir esta linea de juntar un monton de fotos que compartan la tematica
+#### Aspectos negativos:
+1. No me convence hacer blanco y negro, quezas podria tener partes con colores
+
+### Referente 6
+![Image alt text](/path/to/R6.jpg)
+Qué es: Explosión
+
+#### Aspectos positivos:
+1. Transmite la idea de algo loco y dinamico
+#### Aspectos negativos:
+1. Tiene colores muy vibrantes que no van con lo que quiero
+
+
+
+
