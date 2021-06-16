@@ -4,7 +4,7 @@ Ver que ofrece un salone de belleza, tanto para cotizar precios como para reserv
 
 ## ¿Para quiénes?
 ### Usuario central: Marcela diaz
-![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/U1.png)
+![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/U1.jpg)
 #### Behavior & Demographic:
 1. Es madre de adolescentes
 2. Le gusta mantenerse arreglada
@@ -19,7 +19,7 @@ Ver que ofrece un salone de belleza, tanto para cotizar precios como para reserv
 3. Necesita poder controlar sus tiempos para poder organizarse.
 
 ### Usuario extremo: Jorge Figueroa
-![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/U2.png)
+![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/U2.jpg)
 #### Behavior & Demographic:
 1. Adulto joven.
 2. Vive solo por lo que su dinero lo gasta todo en sí mismo.
@@ -33,7 +33,7 @@ Ver que ofrece un salone de belleza, tanto para cotizar precios como para reserv
 2. Necesita poder hacerse una idea de que es lo que está buscando de manera rápida.
 
 ### Usuario extremo: Trinidad Tagle
-![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/U3.png)
+![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/U3.jpg)
 #### Behavior & Demographic:
 1. Adolescente
 2. Sigue las tendencias que hay en el momento
