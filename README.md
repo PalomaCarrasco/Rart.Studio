@@ -45,7 +45,7 @@ Ver que ofrece un salone de belleza, tanto para cotizar precios como para reserv
 
 ## ¿Qué existe que es similar a la propuesta?
 ### Antecedente 1
-![Image alt text](/path/to/A1.jpg
+![Image alt text](/path/to/A1.jpg)
 Qué es: Frame de Sarah Battikha es también el privilegio de una atención única, una alquimia sutil de todos los métodos nuevos y una amplia gama de productos para el cuidado cuya eficacia e inocuidad están científicamente probadas.
 [link](ttps://www.framesb.ch/)
 
@@ -55,4 +55,39 @@ Qué es: Frame de Sarah Battikha es también el privilegio de una atención úni
 #### Aspectos negativos:
 1. Tiene muchos botones que no me quedan claros para que sirven
 2. Le falta presentar de mejor forma las fotos
+
+### Antecedente 2
+![Image alt text](/path/to/A2.jpg)
+Qué es: Beauty For All (BFA) Industries es una plataforma de innovación de belleza que alberga las marcas de suscripción de belleza más grandes del mundo, IPSY y BoxyCharm.
+[link](https://www.bfaindustries.com/)
+
+#### Aspectos positivos:
+1. Me gusta la forma inicial en que presenta las imágenes
+2. Me gusta su diagramación, no es ni muy larga ni muy corta.
+3. Uno no se pierde ya que no tiene tantos botones
+#### Aspectos negativos:
+1. Le falta un botón que te devuelva al inicio.
+
+### Antecedente 3
+![Image alt text](/path/to/A3.jpg)
+Qué es: Violet nació en 2009 y ha sido rebautizada como una marca de belleza con sede en Austria, que se registró oficialmente en 2016 en todo el mundo, propiedad de VIOLET KOSMETIK GmbH.
+[link](http://www.violet-feredo.com/en/)
+
+#### Aspectos positivos:
+1. La forma de exponer las opciones es bastante creativa
+2. Tiene buenos efectos animados
+#### Aspectos negativos:
+1. Cuesta entender como bajar en la página
+2. Por el modo en que está ordenado no cualquier foto servirá
+
+### Antecedente 4
+![Image alt text](/path/to/A4.jpg)
+Qué es: Holo Taco es la creación de Cristine Rotenberg, la personalidad detrás del canal de "nail art" más grande de YouTube: Simply Nailogical.
+[link](https://www.holotaco.com/)
+
+#### Aspectos positivos:
+1. Tiene el botón de chat, para poder hablar directamente y resolver dudas o agendar horas.
+2. Expone los productos de manera ordenada
+#### Aspectos negativos:
+1. Visualmente se ve un poco sobrecargada.
 
