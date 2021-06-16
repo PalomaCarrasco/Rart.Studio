@@ -14,9 +14,9 @@ Ver que ofrece un salone de belleza, tanto para cotizar precios como para reserv
 2. Necesita invertir dinero en ella misma
 3. Necesita ir cada cierto tiempo para mantener su corte de pelo o sus uñas
 #### Potential Solutions: 
-1. Necesita poder ver que ofrece la tienda para poder tener una decisión segura.
-2. Necesita poder cotizar precios sin sentirse presionada a comprar
-3. Necesita poder controlar sus tiempos para poder organizarse.
+1. Poder ver que ofrece la tienda para poder tener una decisión segura.
+2. Poder cotizar precios sin sentirse presionada a comprar.
+3. Poder controlar sus tiempos para así organizarse.
 
 ### Usuario extremo: Jorge Figueroa
 ![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/U2.jpg)
@@ -29,8 +29,8 @@ Ver que ofrece un salone de belleza, tanto para cotizar precios como para reserv
 2. No se preocupa constantemente de su apariencia.
 3. Tiende a dejar pasar mucho tiempo antes de poder ir al salón de belleza.
 #### Potential Solutions:
-1. Necesita poder fijarse un dia y hora para así poder fijarse una fecha concreta y no olvidarlo.
-2. Necesita poder hacerse una idea de que es lo que está buscando de manera rápida.
+1. Poder fijar un dia y hora para así poder fijarse una fecha concreta y no olvidarlo.
+2. Poder hacerse una idea de que es lo que está buscando de manera rápida.
 
 ### Usuario extremo: Trinidad Tagle
 ![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/U3.jpg)
@@ -43,8 +43,8 @@ Ver que ofrece un salone de belleza, tanto para cotizar precios como para reserv
 2. Su mama no le permite ir tan seguido a hacerse las uñas.
 3. Depende económicamente de su mama por lo que no puede gastar tanto en ella.
 #### Potential Solutions: 
-1. Necesita poder mostrarle opciones a su mamá, que esté en un rango de precios que ella esté dispuesta a pagar.
-2. Necesita poder ver que tendencias en cuanto a uñas y pelo ofrece el salon y considerar que le gusta más.
+1. Poder mostrarle opciones a su mamá, que esté en un rango de precios que ella esté dispuesta a pagar.
+2. Poder ver que tendencias en cuanto a uñas y pelo ofrece el salon y considerar que le gusta más.
 
 ## ¿Qué existe que es similar a la propuesta?
 ### Antecedente 1
