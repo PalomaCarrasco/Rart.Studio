@@ -52,7 +52,6 @@ Ver que ofrece un salone de belleza, tanto para cotizar precios como para reserv
 
 Qué es: Frame de Sarah Battikha es también el privilegio de una atención única, una alquimia sutil de todos los métodos nuevos y una amplia gama de productos para el cuidado cuya eficacia e inocuidad están científicamente probadas.
 [link](ttps://www.framesb.ch/)
-
 #### Aspectos positivos:
 1. Posee una esquematización clara.
 2. Ya tiene incluido el botón de reservar hora.
@@ -62,9 +61,9 @@ Qué es: Frame de Sarah Battikha es también el privilegio de una atención úni
 
 ### Antecedente 2
 ![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/A2.png)
+
 Qué es: Beauty For All (BFA) Industries es una plataforma de innovación de belleza que alberga las marcas de suscripción de belleza más grandes del mundo, IPSY y BoxyCharm.
 [link](https://www.bfaindustries.com/)
-
 #### Aspectos positivos:
 1. Me gusta la forma inicial en que presenta las imágenes
 2. Me gusta su diagramación, no es ni muy larga ni muy corta.
@@ -74,9 +73,9 @@ Qué es: Beauty For All (BFA) Industries es una plataforma de innovación de bel
 
 ### Antecedente 3
 ![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/A3.png)
+
 Qué es: Violet nació en 2009 y ha sido rebautizada como una marca de belleza con sede en Austria, que se registró oficialmente en 2016 en todo el mundo, propiedad de VIOLET KOSMETIK GmbH.
 [link](http://www.violet-feredo.com/en/)
-
 #### Aspectos positivos:
 1. La forma de exponer las opciones es bastante creativa
 2. Tiene buenos efectos animados
@@ -86,9 +85,9 @@ Qué es: Violet nació en 2009 y ha sido rebautizada como una marca de belleza c
 
 ### Antecedente 4
 ![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/A4.png)
+
 Qué es: Holo Taco es la creación de Cristine Rotenberg, la personalidad detrás del canal de "nail art" más grande de YouTube: Simply Nailogical.
 [link](https://www.holotaco.com/)
-
 #### Aspectos positivos:
 1. Tiene el botón de chat, para poder hablar directamente y resolver dudas o agendar horas.
 2. Expone los productos de manera ordenada
@@ -97,9 +96,9 @@ Qué es: Holo Taco es la creación de Cristine Rotenberg, la personalidad detrá
 
 ### Antecedente 5
 ![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/A5.png)
+
 Qué es: Sitio de WordPress para la cadena Hair Salon en el Reino Unido. Diseñado y construido del sitio web a través de una experiencia de usuario enfocada y un uso cuidadoso de datos estructurados para integrar los 56 salones con Google My Business.
 [link](https://www.headmasters.com/)
-
 #### Aspectos positivos:
 1. Tiene incluido un botón referente al covid
 2. Me gusta la disposición de qué va primero.
@@ -109,9 +108,9 @@ Qué es: Sitio de WordPress para la cadena Hair Salon en el Reino Unido. Diseña
 
 ### Antecedente 6
 ![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/A6.png)
+
 Qué es: Yukie Nail New York y Hearts New York son peluquerías y peluquerías profesionales ubicadas en el centro de Manhattan, Nueva York.
 [link](https://www.holotaco.com/)
-
 #### Aspectos positivos:
 1. Tiene una entrada bonita
 2. Me gusta el efecto de la página principal
@@ -120,10 +119,10 @@ Qué es: Yukie Nail New York y Hearts New York son peluquerías y peluquerías p
 2. El esquema de las opciones no calza estéticamente con la idea de la página.
 
 ## ¿Qué existe que puede inspirar la propuesta?
-### Referente 1
-![Image alt text](/path/to/R1.jpg)
-Qué es: Kyle Jenner para la revista VOGUE
+![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/REFERENTES.png)
 
+### Referente 1
+Qué es: Kyle Jenner para la revista VOGUE
 #### Aspectos positivos:
 1. Las vibes que transmite de alguien seria y elegante
 2. Esta idea de fotos de revista
@@ -131,51 +130,41 @@ Qué es: Kyle Jenner para la revista VOGUE
 1. Tienen que calzar todas con las tonalidades que elegí
 
 ### Referente 2
-![Image alt text](/path/to/R2.jpg)
-Qué es: Paleta de colores
-
+Qué es: Manos
 #### Aspectos positivos:
-1. Quiero estos tonos para la pagina web
-2. Los colores tierra son los tonos en tendencia
+1. Idea de mostrar extremidades como las manos u otras partes del cuerpo
+2. Encajan bien con la idea de un salon de belleza, que hace las manos o corta el cabello
 #### Aspectos negativos:
-1. Tal vez se vea un poco apagado
+1. Quizas podría tener algun color que sea mas vibrante
 
 ### Referente 3
-![Image alt text](/path/to/R3.jpg)
 Qué es: Estanpado en tendencia
-
 #### Aspectos positivos:
 1. Me gusta esta idea de ondas, que se vea bien alocada la estetica
 #### Aspectos negativos:
 1. Podria marear a la persona si lo sobre uso
 
 ### Referente 4
-![Image alt text](/path/to/R4.jpg)
 Qué es: Foto tipo influencer
-
 #### Aspectos positivos:
 1. Me llama la atención poner estilos sin mostrar el rostro
 2. Darle una estetica tipo fotos tumblr
 #### Aspectos negativos:
-1. La gente se podra confundir con que es una pagina de moda
+1. La gente se podra confundir con que es una página de moda
 
 ### Referente 5
-![Image alt text](/path/to/R5.jpg)
 Qué es: Estilo collage
-
 #### Aspectos positivos:
 1. Segir esta linea de juntar un monton de fotos que compartan la tematica
 #### Aspectos negativos:
 1. No me convence hacer blanco y negro, quezas podria tener partes con colores
 
 ### Referente 6
-![Image alt text](/path/to/R6.jpg)
-Qué es: Explosión
-
+Qué es: Portada de revista
 #### Aspectos positivos:
-1. Transmite la idea de algo loco y dinamico
+1. Me gusta ese estilo disruptivo, le da más potencia a la imagen
 #### Aspectos negativos:
-1. Tiene colores muy vibrantes que no van con lo que quiero
+1. Tiene muchos colores, quizas un contraste entre tonos nude y blanco y negro quedaría mejor
 
 
 
