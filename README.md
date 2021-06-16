@@ -42,3 +42,17 @@
 #### Potential Solutions: 
 1. Necesita poder mostrarle opciones a su mamá, que esté en un rango de precios que ella esté dispuesta a pagar.
 2. Necesita poder ver que tendencias en cuanto a uñas y pelo ofrece el salon y considerar que le gusta más.
+
+## ¿Qué existe que es similar a la propuesta?
+### Antecedente 1
+![Image alt text](/path/to/A1.jpg
+Qué es: Frame de Sarah Battikha es también el privilegio de una atención única, una alquimia sutil de todos los métodos nuevos y una amplia gama de productos para el cuidado cuya eficacia e inocuidad están científicamente probadas.
+[link](ttps://www.framesb.ch/)
+
+#### Aspectos positivos:
+1. Posee una esquematización clara.
+2. Ya tiene incluido el botón de reservar hora.
+#### Aspectos negativos:
+1. Tiene muchos botones que no me quedan claros para que sirven
+2. Le falta presentar de mejor forma las fotos
+
