@@ -91,3 +91,37 @@ Qué es: Holo Taco es la creación de Cristine Rotenberg, la personalidad detrá
 #### Aspectos negativos:
 1. Visualmente se ve un poco sobrecargada.
 
+### Antecedente 5
+![Image alt text](/path/to/A5.jpg)
+Qué es: Sitio de WordPress para la cadena Hair Salon en el Reino Unido. Diseñado y construido del sitio web a través de una experiencia de usuario enfocada y un uso cuidadoso de datos estructurados para integrar los 56 salones con Google My Business.
+[link](https://www.headmasters.com/)
+
+#### Aspectos positivos:
+1. Tiene incluido un botón referente al covid
+2. Me gusta la disposición de qué va primero.
+#### Aspectos negativos:
+1. Es poco “seria” la estética de todo
+2. El final de la página tiene demasiadas cosas
+
+### Antecedente 6
+![Image alt text](/path/to/A6.jpg)
+Qué es: Yukie Nail New York y Hearts New York son peluquerías y peluquerías profesionales ubicadas en el centro de Manhattan, Nueva York.
+[link](https://www.holotaco.com/)
+
+#### Aspectos positivos:
+1. Tiene una entrada bonita
+2. Me gusta el efecto de la página principal
+#### Aspectos negativos:
+1. La tipografía está muy chica
+2. El esquema de las opciones no calza estéticamente con la idea de la página.
+
+##¿Qué existe que puede inspirar la propuesta?
+### Referente 1
+![Image alt text](/path/to/R1.jpg)
+Qué es: 
+[link](https://www.holotaco.com/)
+
+#### Aspectos positivos:
+1. 
+#### Aspectos negativos:
+1. 
