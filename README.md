@@ -45,7 +45,7 @@ Ver que ofrece un salone de belleza, tanto para cotizar precios como para reserv
 
 ## ¿Qué existe que es similar a la propuesta?
 ### Antecedente 1
-![Image alt text](/path/to/A1.jpg)
+![Image alt text](/path/to/A1.png)
 Qué es: Frame de Sarah Battikha es también el privilegio de una atención única, una alquimia sutil de todos los métodos nuevos y una amplia gama de productos para el cuidado cuya eficacia e inocuidad están científicamente probadas.
 [link](ttps://www.framesb.ch/)
 
@@ -57,7 +57,7 @@ Qué es: Frame de Sarah Battikha es también el privilegio de una atención úni
 2. Le falta presentar de mejor forma las fotos
 
 ### Antecedente 2
-![Image alt text](/path/to/A2.jpg)
+![Image alt text](/path/to/A2.png)
 Qué es: Beauty For All (BFA) Industries es una plataforma de innovación de belleza que alberga las marcas de suscripción de belleza más grandes del mundo, IPSY y BoxyCharm.
 [link](https://www.bfaindustries.com/)
 
@@ -69,7 +69,7 @@ Qué es: Beauty For All (BFA) Industries es una plataforma de innovación de bel
 1. Le falta un botón que te devuelva al inicio.
 
 ### Antecedente 3
-![Image alt text](/path/to/A3.jpg)
+![Image alt text](/path/to/A3.png)
 Qué es: Violet nació en 2009 y ha sido rebautizada como una marca de belleza con sede en Austria, que se registró oficialmente en 2016 en todo el mundo, propiedad de VIOLET KOSMETIK GmbH.
 [link](http://www.violet-feredo.com/en/)
 
@@ -81,7 +81,7 @@ Qué es: Violet nació en 2009 y ha sido rebautizada como una marca de belleza c
 2. Por el modo en que está ordenado no cualquier foto servirá
 
 ### Antecedente 4
-![Image alt text](/path/to/A4.jpg)
+![Image alt text](/path/to/A4.png)
 Qué es: Holo Taco es la creación de Cristine Rotenberg, la personalidad detrás del canal de "nail art" más grande de YouTube: Simply Nailogical.
 [link](https://www.holotaco.com/)
 
@@ -92,7 +92,7 @@ Qué es: Holo Taco es la creación de Cristine Rotenberg, la personalidad detrá
 1. Visualmente se ve un poco sobrecargada.
 
 ### Antecedente 5
-![Image alt text](/path/to/A5.jpg)
+![Image alt text](/path/to/A5.png)
 Qué es: Sitio de WordPress para la cadena Hair Salon en el Reino Unido. Diseñado y construido del sitio web a través de una experiencia de usuario enfocada y un uso cuidadoso de datos estructurados para integrar los 56 salones con Google My Business.
 [link](https://www.headmasters.com/)
 
@@ -104,7 +104,7 @@ Qué es: Sitio de WordPress para la cadena Hair Salon en el Reino Unido. Diseña
 2. El final de la página tiene demasiadas cosas
 
 ### Antecedente 6
-![Image alt text](/path/to/A6.jpg)
+![Image alt text](/path/to/A6.png)
 Qué es: Yukie Nail New York y Hearts New York son peluquerías y peluquerías profesionales ubicadas en el centro de Manhattan, Nueva York.
 [link](https://www.holotaco.com/)
 
