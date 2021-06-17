@@ -155,7 +155,7 @@ Qué es: Foto tipo influencer
 ### Referente 5
 Qué es: Estilo collage
 #### Aspectos positivos:
-1. Segir esta linea de juntar un monton de fotos que compartan la tematica
+1. Seguir esta linea de juntar un montón de fotos que compartan la temática
 #### Aspectos negativos:
 1. No me convence hacer blanco y negro, quezas podria tener partes con colores
 
