@@ -119,7 +119,7 @@ Qué es: Yukie Nail New York y Hearts New York son peluquerías y peluquerías p
 2. El esquema de las opciones no calza estéticamente con la idea de la página.
 
 ## ¿Qué existe que puede inspirar la propuesta?
-![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/REFERENTES.png)
+![](https://raw.githubusercontent.com/PalomaCarrasco/Rart.Studio/main/images/REFERENTES.jpg)
 
 ### Referente 1
 Qué es: Kyle Jenner para la revista VOGUE
